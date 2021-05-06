@@ -1,0 +1,2 @@
+C:\Users\mac\Desktop\CDemo\Debug\CDemo.exe
+C:\Users\mac\Desktop\CDemo\Debug\CDemo.pdb

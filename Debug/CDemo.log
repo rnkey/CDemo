@@ -1,0 +1,5 @@
+﻿  一维数组.c
+  字符处理.c
+C:\Users\mac\Desktop\CDemo\字符处理.c(14,30): warning C4101: “b1”: 未引用的局部变量
+  正在生成代码...
+  CDemo.vcxproj -> C:\Users\mac\Desktop\CDemo\Debug\CDemo.exe
